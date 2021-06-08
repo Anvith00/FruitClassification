@@ -12,7 +12,7 @@ Dataset from - [Kaggle](https://www.kaggle.com/moltean/fruits)
 
 #### How to use this notebook?
 ---
--First downlod the dataset from Kaggle
+- First, download the dataset from Kaggle
 - Extract it inside Datasets (in Google Drive)
 - Load your Drive on the Colab notebook
 
