@@ -16,4 +16,4 @@ Dataset from - [Kaggle](https://www.kaggle.com/moltean/fruits)
 - Extract it inside Datasets (in Google Drive)
 - Load your Drive on the Colab notebook
 
-It should have not problem unzipping the files in the Colab environment.
+Make sure there are no issues while unzipping the files in the Colab environment.
