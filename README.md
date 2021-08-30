@@ -17,3 +17,5 @@ Dataset from - [Kaggle](https://www.kaggle.com/moltean/fruits)
 - Load your Drive on the Colab notebook
 
 Make sure there are no issues while unzipping the files in the Colab environment.
+
+Implemented stuff I've learnt from IBMs course on Deeplearning. 🙂
